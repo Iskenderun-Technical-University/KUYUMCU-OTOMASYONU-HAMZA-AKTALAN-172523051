@@ -1,0 +1,2 @@
+# hamzawebci
+--kuyumculuk otomasyonu
